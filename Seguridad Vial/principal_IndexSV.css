@@ -28,6 +28,8 @@ li {
     list-style: none;
     display: flex;
     margin: 0 15px;
+    
+
 }
 
 .menu li {
@@ -41,7 +43,7 @@ li {
 .logo {
     position: absolute;
     width: 10%;
-    height: 90%;
+    height: 98%;
     left: 30px;
 }
 
@@ -51,6 +53,21 @@ li {
     font-size: 21px;
     color: black;
 }
+
+/* Cuadros*/
+
+.cover-small {
+    height: 220px;
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: normal;
+}
+.font {
+    font-size: 25px;
+    font-family: 'Share Tech Mono', monospace;
+}
+
 /* Slider*/
 #slider {
     margin: 30px auto;
@@ -210,4 +227,47 @@ li {
         max-width: calc(100% - 140px);
         margin: 0 auto;
     }
+
+}
+
+/* FOOTER*/
+footer .titulo-seccion {
+    color: #000000;
+    font-size: 17px;
+}
+
+footer .contenedor {
+    background-color: #ffffff;
+    position: absolute;
+    top: 1000px;
+    height: 70px;
+    width: 100%;
+    text-align: center;
+}
+
+/* Decoraciones */
+.decoracion-barrera {
+    width: 10%;
+    top: 230px;
+    right: 80px;
+    position: absolute;
+}
+.decoracion-semaforos {
+    width: 13%;
+    top: 300px;
+    left: 0px;
+    position: absolute;
+    transform: rotate(90deg);
+}
+.decoracion-carro {
+    width: 11%;
+    top: 890px;
+    right: 80px;
+    position: absolute;
+}
+.decoracion-niños {
+    width: 13%;
+    top: 270px;
+    left: 9px;
+    position: absolute;
 }

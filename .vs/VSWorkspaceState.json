@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\imagenes",
+    "\\Seguridad Vial"
   ],
-  "SelectedNode": "\\C:\\xampp\\htdocs\\Seguridad Vial",
+  "SelectedNode": "\\imagenes\\transito.webp",
   "PreviewInSolutionExplorer": false
 }
