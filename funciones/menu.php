@@ -9,8 +9,8 @@
             <tr class='filasMenu letraMenu'>
                 <td class='celdasMenu letraMenu'>Bienvenid@ $nombre</a></td>
                 <td class='celdasMenu letraMenu'><a href=\"index.php\">Inicio</a></td>
-                <td class='celdasMenu letraMenu'><a href=\"productos.php\">Lecciones</a></td>
-                <td class='celdasMenu letraMenu'><a href=\"contacto_formulario.php\">Videos</a></td>
+                <td class='celdasMenu letraMenu'><a href=\"videos.php\">Lecciones</a></td>
+                <td class='celdasMenu letraMenu'><a href=\"videos.php\">Videos</a></td>
                 <td class='celdasMenu letraMenu'><a href=\"carrito_paso01.php\">Juegos</a></td>";
                 echo "<td class='celdasMenu'><a href=\"funciones/cerrarSesion.php\">Logros</a></td>";
             echo "</tr>
@@ -23,8 +23,8 @@
             </tr>
             <tr class='filasMenu letraMenu'>
                 <td class='celdasMenu letraMenu'><a href=\"index.php\">Inicio</a></td>
-                <td class='celdasMenu letraMenu'><a href=\"productos.php\">Lecciones</a></td>
-                <td class='celdasMenu letraMenu'><a href=\"contacto_formulario.php\">Videos</a></td>
+                <td class='celdasMenu letraMenu'><a href=\"videos.php\">Lecciones</a></td>
+                <td class='celdasMenu letraMenu'><a href=\"videos.php\">Videos</a></td>
                 <td class='celdasMenu letraMenu'><a href=\"carrito_paso01.php\">Juegos</a></td>
                 <td class='celdasMenu letraMenu'><a href=\"login.php\">Registrarse/Login</a></td>";
             echo "</tr>
