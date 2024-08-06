@@ -79,7 +79,7 @@
         }
 
         body {
-            background: url("imagenes/login.png"); 
+            background: url("imagenes/login.jpeg"); 
             background-size: 100% 100%;
             background-repeat: no-repeat;
             background-position: center;
